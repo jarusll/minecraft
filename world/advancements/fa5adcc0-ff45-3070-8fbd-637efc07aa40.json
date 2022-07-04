@@ -1,34 +1,27 @@
 {
-  "aquaculture:recipes/food/sushi": {
+  "forbidden_arcanus:recipes/forbidden_arcanus/wooden_blacksmith_gavel": {
     "criteria": {
-      "has_alt_items": "2022-07-04 12:11:53 +0000",
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_item": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/birch_trim": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_planks": "2022-07-04 12:11:53 +0000"
+      "has_stick": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/spruce_fish_mount": {
+  "exoticbirds:recipes/gray_birdhouse": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_wood": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
-  "lootr:root": {
+  "repurposed_structures:igloos": {
     "criteria": {
-      "always_true": "2022-07-04 12:11:52 +0000"
+      "in_igloo_stone": "2022-07-04 12:56:06 +0000"
     },
-    "done": true
-  },
-  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
+    "done": false
   },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
@@ -48,15 +41,15 @@
     },
     "done": true
   },
-  "tconstruct:tools/materials_and_you": {
+  "exoticbirds:recipes/brown_birdhouse": {
     "criteria": {
-      "crafted_book": "2022-07-04 12:11:53 +0000"
+      "has_wood": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
-  "exoticbirds:default/root": {
+  "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "launch_mod": "2022-07-04 12:11:52 +0000"
+      "crafted_book": "2022-07-04 12:11:53 +0000"
     },
     "done": true
   },
@@ -69,6 +62,566 @@
   "aquaculture:recipes/food/cooked_frog_legs": {
     "criteria": {
       "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/acacia_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/white_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/iron_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/gold_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/ambrosia": {
+    "criteria": {
+      "has_the_recipe": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2022-07-04 12:37:23 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/orange_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-07-04 12:41:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2022-07-04 12:20:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/light_gray_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/birch_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/yellow_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2022-07-04 12:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/chisel_stone": {
+    "criteria": {
+      "has_rod": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/chisel_diamond": {
+    "criteria": {
+      "has_rod": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/purple_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/lime_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_biomesoplenty/jacaranda": {
+    "criteria": {
+      "has_plank": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs_from_smoking": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/oak_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/turtle_normal": {
+    "criteria": {
+      "has_normal": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/light_blue_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/spruce_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/pink_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "fir_clearing": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs_from_campfire": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2022-07-04 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/magenta_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/green_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/frog_legs": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-07-04 12:41:38 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2022-07-04 12:11:53 +0000",
+      "has_fillet_knife": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/bit_storage": {
+    "criteria": {
+      "has_l": "2022-07-04 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2022-07-04 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/wrench": {
+    "criteria": {
+      "has_p": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
+    "criteria": {
+      "has_rod": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/black_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2022-07-04 12:11:53 +0000",
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/red_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2022-07-04 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2022-07-04 12:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2022-07-04 12:37:17 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/crimson_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2022-07-04 12:11:52 +0000"
     },
     "done": true
   },
@@ -85,6 +638,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2022-07-04 12:11:53 +0000"
@@ -93,10 +652,35 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2022-07-04 12:57:44 +0000",
+      "rocky_shrubland": "2022-07-04 12:54:05 +0000",
+      "jade_cliffs": "2022-07-04 12:55:57 +0000",
+      "clover_patch": "2022-07-04 12:55:40 +0000",
+      "lavender_forest": "2022-07-04 12:59:08 +0000",
+      "coniferous_forest": "2022-07-04 12:52:47 +0000",
+      "spider_nest": "2022-07-04 12:56:55 +0000",
+      "redwood_forest": "2022-07-04 12:56:03 +0000",
+      "boreal_forest": "2022-07-04 15:10:27 +0000",
+      "highland_moor": "2022-07-04 12:55:49 +0000",
       "lavender_field": "2022-07-04 12:20:02 +0000",
-      "fir_clearing": "2022-07-04 12:11:52 +0000"
+      "fir_clearing": "2022-07-04 12:11:52 +0000",
+      "pumpkin_patch": "2022-07-04 15:10:31 +0000",
+      "grassland": "2022-07-04 12:55:36 +0000",
+      "ominous_woods": "2022-07-04 12:52:57 +0000"
     },
     "done": false
+  },
+  "exoticbirds:recipes/cyan_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
@@ -104,9 +688,34 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/redstone_hook": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "minecraft:river": "2022-07-04 12:52:46 +0000",
+      "minecraft:ice_spikes": "2022-07-04 15:10:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-07-04 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/blue_birdhouse": {
+    "criteria": {
+      "has_wood": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
@@ -122,9 +731,21 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_fish_fillet": {
+  "chiselsandbits:recipes/chiselsandbits/magnifying_glass": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_s": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2022-07-04 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/jungle_birdcage": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
@@ -134,21 +755,33 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_dirt": "2022-07-04 12:20:10 +0000"
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/tools/golden_fishing_rod": {
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
-      "has_vanilla_rod": "2022-07-04 12:11:53 +0000"
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
@@ -164,12 +797,6 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2022-07-04 12:11:53 +0000"
@@ -182,9 +809,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2022-07-04 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-07-04 12:41:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2022-07-04 12:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
@@ -197,12 +848,6 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/gold_hook": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
     },
     "done": true
   },
@@ -225,12 +870,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
-    "criteria": {
-      "has_template": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2022-07-04 12:11:53 +0000"
@@ -243,9 +882,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/quantify_key": {
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
-      "has_template": "2022-07-04 12:11:52 +0000"
+      "has_item": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
@@ -255,9 +894,15 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+  "chiselsandbits:recipes/chiselsandbits/modification_table": {
     "criteria": {
-      "has_template": "2022-07-04 12:11:53 +0000"
+      "has_b": "2022-07-04 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
@@ -286,9 +931,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_frog_legs_from_smoking": {
+  "supplementaries:recipes/hanging_sign_biomesoplenty/jacaranda": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_plank": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
@@ -298,27 +943,15 @@
     },
     "done": true
   },
-  "computercraft:recipes/turtle_normal": {
-    "criteria": {
-      "has_normal": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2022-07-04 12:11:53 +0000"
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+  "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
     "criteria": {
-      "has_planks": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_rod": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
@@ -328,9 +961,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/diamond_hook": {
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
@@ -346,15 +979,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
-      "fir_clearing": "2022-07-04 12:11:52 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/food/cooked_frog_legs_from_campfire": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_logs": "2022-07-04 12:37:23 +0000"
     },
     "done": true
   },
@@ -370,9 +997,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+  "chiselsandbits:recipes/chiselsandbits/chiseled_printer": {
     "criteria": {
-      "has_planks": "2022-07-04 12:11:53 +0000"
+      "has_l": "2022-07-04 12:36:39 +0000"
     },
     "done": true
   },
@@ -388,27 +1015,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/food/frog_legs": {
+  "exoticbirds:recipes/warped_birdcage": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_stick": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+  "chiselsandbits:recipes/chiselsandbits/quill": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
-    "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2022-07-04 12:11:53 +0000"
+      "has_tag_a": "2022-07-04 12:41:09 +0000"
     },
     "done": true
   },
@@ -430,12 +1045,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
-    "criteria": {
-      "has_planks": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/concealment_key": {
     "criteria": {
       "has_template": "2022-07-04 12:11:53 +0000"
@@ -454,13 +1063,6 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_fishing_rod": "2022-07-04 12:11:53 +0000",
-      "has_fillet_knife": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2022-07-04 12:11:53 +0000"
@@ -470,6 +1072,18 @@
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-07-04 12:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-04 15:10:44 +0000"
     },
     "done": true
   },
@@ -490,27 +1104,27 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/worm_farm": {
+  "exoticbirds:recipes/dark_oak_birdcage": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
+      "has_stick": "2022-07-04 12:37:24 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
-      "has_items": "2022-07-04 12:11:53 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/root": {
-    "criteria": {
-      "occultism_present": "2022-07-04 12:11:52 +0000"
+      "has_planks": "2022-07-04 12:41:35 +0000"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2022-07-04 12:11:52 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2022-07-04 12:41:09 +0000"
     },
     "done": true
   },

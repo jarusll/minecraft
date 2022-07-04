@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "df72d774ee893b0897031c28d6fdc67e"
+	name: "XeoN"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

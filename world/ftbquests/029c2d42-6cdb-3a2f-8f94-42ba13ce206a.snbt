@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "029c2d426cdb3a2f8f9442ba13ce206a"
+	name: "WolfsteinDromon"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

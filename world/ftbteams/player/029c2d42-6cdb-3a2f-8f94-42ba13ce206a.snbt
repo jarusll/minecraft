@@ -1,0 +1,16 @@
+{
+	id: "029c2d42-6cdb-3a2f-8f94-42ba13ce206a"
+	type: "player"
+	player_name: "WolfsteinDromon"
+	ranks: {
+		029c2d42-6cdb-3a2f-8f94-42ba13ce206a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "WolfsteinDromon"
+		"ftbteams:color": "#FFC759"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

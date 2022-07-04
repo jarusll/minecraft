@@ -1,0 +1,16 @@
+{
+	id: "df72d774-ee89-3b08-9703-1c28d6fdc67e"
+	type: "player"
+	player_name: "XeoN"
+	ranks: {
+		df72d774-ee89-3b08-9703-1c28d6fdc67e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XeoN"
+		"ftbteams:color": "#59E5FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
