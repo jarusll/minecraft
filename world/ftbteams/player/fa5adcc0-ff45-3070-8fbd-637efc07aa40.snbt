@@ -1,0 +1,16 @@
+{
+	id: "fa5adcc0-ff45-3070-8fbd-637efc07aa40"
+	type: "player"
+	player_name: "jarusll"
+	ranks: {
+		fa5adcc0-ff45-3070-8fbd-637efc07aa40: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jarusll"
+		"ftbteams:color": "#AF59FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "fa5adcc0ff4530708fbd637efc07aa40"
+	name: "jarusll"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
